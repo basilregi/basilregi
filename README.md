@@ -1,13 +1,14 @@
-# basilregi.github.io
+# Hi, I'm Basil 👋
 
-Personal GitHub Pages site.
+Welcome to my GitHub profile.
 
-## Update content
+## About me
+I'm a developer interested in building useful software and learning new technologies.
 
-Edit [`/index.md`](/index.md) to update:
+## What I'm working on
+- Improving my skills
+- Building projects
+- Exploring GitHub and open source
 
-- who you are
-- skills and experience
-- how you like to work
-
-The site uses the default Jekyll layout with the `minima` theme for a clean, modern baseline.
+## Connect with me
+- Add your links here
