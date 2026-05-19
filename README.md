@@ -10,17 +10,20 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name: Basil Regi
-handle: "@basilregi"
-bio: >-
-  Building practical, well-crafted software with a focus on
-  clarity, reliability, and continuous improvement.
-
-location: # Add your location
-current_focus: # Add your current role or focus area
-interests: # Add your domain interests
-learning: # Add what you're currently exploring
-fun_fact: # Add something interesting about you
+name: "Basil Regi"
+located_in: "United Kingdom"
+education: [
+    "MSci Computer Science @ University of Birmingham"
+]
+company: "Natwest Boxed"
+role: "Backend Engineer"
+fields_of_interest: [
+    "Backend Software Engineering",
+    "Event Driven Architectures",
+    "Event Sourcing",
+    "Domain Driven Design"
+]
+hobbies: ["Watching Movies" , "Travelling", "Reading", "Playing Music"]
 ```
 
 ---
