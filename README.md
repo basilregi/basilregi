@@ -3,10 +3,6 @@
 <!-- Animated greeting banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Basil+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Always+learning+%2C+always+building)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=basilregi&label=Profile+Views&color=58a6ff&style=flat" alt="profile views" />
-</p>
-
 </div>
 
 ---
@@ -14,60 +10,39 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-Name:          Basil Regi
-Handle:        @basilregi
-Bio:           Building practical, well-crafted software with a focus on
-               clarity, reliability, and continuous improvement.
+name: Basil Regi
+handle: "@basilregi"
+bio: >-
+  Building practical, well-crafted software with a focus on
+  clarity, reliability, and continuous improvement.
 
-Location:      # Add your location
-Current Focus: # Add your current role or focus area
-Interests:     # Add your domain interests
-Learning:      # Add what you're currently exploring
-Fun Fact:      # Add something interesting about you
+location: # Add your location
+current_focus: # Add your current role or focus area
+interests: # Add your domain interests
+learning: # Add what you're currently exploring
+fun_fact: # Add something interesting about you
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Replace or remove icons to match your actual stack -->
-
-**Languages**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,go,c" alt="Java, Python, Go, C" />
-</p>
-
-**Frameworks & Libraries**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring / Spring WebFlux" />
-  <img src="https://cdn.simpleicons.org/micronaut/1E1D1C" width="48" height="48" alt="Micronaut" />
-  <img src="https://cdn.simpleicons.org/reactivex/B7178C" width="48" height="48" alt="Project Reactor" />
-</p>
-
-**Cloud & DevOps**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes,linux" alt="GitHub Actions, Jenkins, Docker, Kubernetes, Linux" />
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,git,idea" alt="PostgreSQL, Git, IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+  <img src="https://avatars.githubusercontent.com/u/36880643?v=4" width="48" height="48" alt="Micronaut" />
+  <img src="https://avatars.githubusercontent.com/u/4201559?v=4" width="48" height="48" alt="Project Reactor" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" width="48" height="48" alt="Cassandra" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basilregi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilregi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=basilregi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
