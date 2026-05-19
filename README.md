@@ -30,36 +30,34 @@ Fun Fact:      # Add something interesting about you
 
 ## 🛠️ Tech Stack
 
-<!-- Replace or remove badges to match your actual stack -->
+<!-- Replace or remove icons to match your actual stack -->
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,go,c" alt="Java, Python, Go, C" />
+</p>
 
 **Frameworks & Libraries**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-1E1D1C?style=for-the-badge&logo=micronaut&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Project Reactor](https://img.shields.io/badge/Project%20Reactor-7D4698?style=for-the-badge&logo=reactivex&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring / Spring WebFlux" />
+  <img src="https://cdn.simpleicons.org/micronaut/1E1D1C" width="48" height="48" alt="Micronaut" />
+  <img src="https://cdn.simpleicons.org/reactivex/B7178C" width="48" height="48" alt="Project Reactor" />
+</p>
 
 **Cloud & DevOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes,linux" alt="GitHub Actions, Jenkins, Docker, Kubernetes, Linux" />
+</p>
 
 **Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,git,idea" alt="PostgreSQL, Git, IntelliJ IDEA" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" width="48" height="48" alt="Cassandra" />
+</p>
 
 ---
 
