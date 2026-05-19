@@ -71,37 +71,3 @@ Fun Fact:      # Add something interesting about you
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=basilregi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Update with your real project names, descriptions, and links -->
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Project Alpha**](https://github.com/basilregi) | _Short description of what this project does_ | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| [**Project Beta**](https://github.com/basilregi) | _Short description of what this project does_ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| [**Project Gamma**](https://github.com/basilregi) | _Short description of what this project does_ | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basilregi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilregi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-  <i>Open to interesting problems, meaningful collaboration, and good conversations.</i>
-</div>
