@@ -13,14 +13,18 @@
 
 ## 🙋‍♂️ About Me
 
-I build practical, well-crafted software with a focus on clarity and continuous improvement.
-I enjoy turning ideas into real products, collaborating across teams, and keeping things simple enough to evolve quickly.
+```yaml
+Name:          Basil Regi
+Handle:        @basilregi
+Bio:           Building practical, well-crafted software with a focus on
+               clarity, reliability, and continuous improvement.
 
-- 🌍 **Location:** _Add your location_
-- 💼 **Current focus:** _Add your current role or focus area_
-- 🎯 **Interests:** _Add your domain interests_
-- 🌱 **Learning:** _Add what you're currently exploring_
-- ⚡ **Fun fact:** _Add something interesting about you_
+Location:      # Add your location
+Current Focus: # Add your current role or focus area
+Interests:     # Add your domain interests
+Learning:      # Add what you're currently exploring
+Fun Fact:      # Add something interesting about you
+```
 
 ---
 
